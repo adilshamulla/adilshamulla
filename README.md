@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://www.michaelpage.fr/sites/michaelpage.fr/files/legacy/shutterstock_1100046194_970x480.jpg)
 <h1 align="center">Hi 👋, I'm Adilsha B Mulla</h1>
 <h3 align="center">A passionate Entry level Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg">
+<img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.yellowfinbi.com/assets/files/2019/05/planning-4077086_1280.jpg?fit=1200%2C628&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilshamulla&label=Profile%20views&color=0e75b6&style=flat" alt="adilshamulla" /> </p>
 
