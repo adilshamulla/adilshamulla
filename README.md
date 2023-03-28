@@ -3,7 +3,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Adilsha B Mulla</h1>
 <h3 align="center">A passionate Entry level Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=coding+animated+gif&sxsrf=APwXEdd7ffeM3O4I_pe6tDC0ffhoAMvpXQ:1679978788528&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiiiq7X6P39AhXkRmwGHcyuBosQ_AUoAXoECAEQAw&biw=1536&bih=746&dpr=1.25#imgrc=uit7B1SgJ3Kz_M">
+<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilshamulla&label=Profile%20views&color=0e75b6&style=flat" alt="adilshamulla" /> </p>
 
